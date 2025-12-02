@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "BRAIN",
+  "base_artist": "Kanaria",
+  "createdAt": "2025-12-02T14:58:03.863562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Minimum Brain Size",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Minimum_Brain_Size_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brain Damage",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/02_Brain_Damage_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brain Lord",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/03_Brain_Lord_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Surprise! I'm From Cuba, Everyone Has One Brain",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/04_Surprise!_I'm_From_Cuba,_Everyone_Has_One_Brain_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Banana Brain",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/05_Banana_Brain_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Brain Damage",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/06_Brain_Damage_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Marijuana in Your Brain",
+      "artist": "Lords of Acid",
+      "has_synced": true,
+      "path": "select/07_Marijuana_in_Your_Brain_Lords_of_Acid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brain (feat. Domo Genesis)",
+      "artist": "MellowHype feat. Domo Genesis",
+      "has_synced": true,
+      "path": "select/08_Brain_(feat._Domo_Genesis)_MellowHype_feat._Domo_Genesis.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brain (Feat. Domo Genesis)",
+      "artist": "MellowHype",
+      "has_synced": true,
+      "path": "select/09_Brain_(Feat._Domo_Genesis)_MellowHype.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brain Drain",
+      "artist": "Marianne Faithfull",
+      "has_synced": true,
+      "path": "select/10_Brain_Drain_Marianne_Faithfull.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Brain Drain - Original Mix",
+      "artist": "Marianne Faithfull",
+      "has_synced": false,
+      "path": "select/11_Brain_Drain_-_Original_Mix_Marianne_Faithfull.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brain Drain (Original Mix)",
+      "artist": "Marianne Faithfull",
+      "has_synced": false,
+      "path": "select/12_Brain_Drain_(Original_Mix)_Marianne_Faithfull.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fleece On Brain",
+      "artist": "Matthew Dear",
+      "has_synced": false,
+      "path": "select/13_Fleece_On_Brain_Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Heart Cooks Brain",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/14_Heart_Cooks_Brain_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart Cooks Brain",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/15_Heart_Cooks_Brain_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Little Brain (feat. nothing,nowhere.)",
+      "artist": "MISOGI feat. Nothing, Nowhere.",
+      "has_synced": true,
+      "path": "select/16_Little_Brain_(feat._nothing,nowhere.)_MISOGI_feat._Nothing,_Nowhere..lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Little Brain (feat. nothing,nowhere.)",
+      "artist": "MISOGI",
+      "has_synced": true,
+      "path": "select/17_Little_Brain_(feat._nothing,nowhere.)_MISOGI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BRAIN",
+      "artist": "Kanaria",
+      "has_synced": false,
+      "path": "select/pl_01_BRAIN_Kanaria.txt"
+    }
+  ]
+}
